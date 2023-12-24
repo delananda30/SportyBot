@@ -1,0 +1,5 @@
+streamlit==1.29.0
+google-generativeai==0.2.2
+streamlit-chat==0.1.1
+langdetect==1.0.9
+googletrans==4.0.0rc1
